@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shawry292
-- 🌱 I’m currently learning SQL and Python.
+- 🌱 I’m currently learning VBA, Javascript, HTML, SQL and Python.
 - 💞️ I’m looking to collaborate on something that will help me learn
 
 <!---
