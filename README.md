@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shawry292
+- 👋 Hi, I’m @shawry292 (Sam)
 - 🌱 I’m currently learning VBA, Javascript, HTML, SQL and Python.
-- 💞️ I’m looking to collaborate on something that will help me learn
 
 <!---
 shawry292/shawry292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
